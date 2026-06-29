@@ -183,21 +183,13 @@ These insights can help HR professionals develop better employee retention strat
 
 ## 📷 Screenshots
 
-### Employee Attrition Distribution
-
-*(Add Screenshot Here)*
-
-### Correlation Heatmap
-
-*(Add Screenshot Here)*
-
 ### Confusion Matrix
 
-*(Add Screenshot Here)*
+![Confusion Matrix](images/confusionmatrix.PNG)
 
 ### ROC Curve
 
-(images/roc_curve.PNG)
+![ROC Curve](images/roc_curve.PNG)
 
 ---
 
