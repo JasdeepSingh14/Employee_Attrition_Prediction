@@ -197,7 +197,7 @@ These insights can help HR professionals develop better employee retention strat
 
 ### ROC Curve
 
-
+(images/roc_curve.PNG)
 
 ---
 
