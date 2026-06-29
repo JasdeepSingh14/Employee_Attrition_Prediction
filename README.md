@@ -213,13 +213,10 @@ Employee-Attrition-Prediction/
 │   └── Employee_Attrition_Prediction.ipynb
 │
 ├── images/                       # Project screenshots
-│   ├── attrition_distribution.png
-│   ├── heatmap.png
-│   ├── confusion_matrix.png
-│   └── roc_curve.png
+│   ├── confusion_matrix.PNG
+│   └── roc_curve.PNG
 │
 ├── requirements.txt              # Project dependencies
-├── LICENSE
 └── README.md
 ```
 
@@ -294,7 +291,7 @@ AI | Machine Learning | Data Science | Generative AI Enthusiast
 
 GitHub: https://github.com/JasdeepSingh14
 
-LinkedIn: [*(https://www.linkedin.com/in/jasdeep-singh-978933291/)*]
+LinkedIn: https://www.linkedin.com/in/jasdeep-singh-978933291
 
 ---
 
